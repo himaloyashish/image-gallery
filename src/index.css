@@ -21,4 +21,8 @@
   text-align: center;
 }
 
+.explore{
+  @apply bg-slate-600 px-2 py-1 text-white hover:bg-[#ED2127] rounded-sm duration-500 mt-10
+}
+
 
