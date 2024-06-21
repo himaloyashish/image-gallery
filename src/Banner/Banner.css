@@ -6,6 +6,6 @@
     /* object-fit: fill;
     background-position: fixed;
     background-attachment: center; */
-    background-image: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.2)),  url("../assets/image- banner.png");
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(29, 28, 28, 0.2)),  url("../assets/image- banner.png");
   }
   
