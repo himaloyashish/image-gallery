@@ -4,17 +4,17 @@ import './Navbar'
 const Navbar = () => {
 
     return (
-        <div className='flex justify-between ml-[120px] bannerBg  mr-[120px]  '>
+        <div className='flex justify-between pl-[120px] bg-black pt-5  pr-[120px]  '>
             <ul>
                 <li><img src="/src/assets/massart 1.png" alt="MassArt" /> </li>
             </ul>
             <ul className='flex gap-3'>
-                <li className=''>GetTicket</li>
-                <li>Schedules</li>
-                <li>Speakers</li>
-                <li>FAQ</li>
+                <li className='text-white'>GetTicket</li>
+                <li className='text-white' >Schedules</li>
+                <li className='text-white' >Speakers</li>
+                <li className='text-white' >FAQ</li>
             </ul>
-            <ul><li><button>Register</button></li></ul>
+            <ul><li><button className='text-white' >Register</button></li></ul>
         </div>
     );
 };
