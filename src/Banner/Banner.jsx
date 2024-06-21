@@ -4,7 +4,7 @@ import "./Banner.css";
 const Banner = () => {
   return (
     <div className=" bannerBg  pl-[120px] pr-[120px]   ">
-      <div className="w-[320px]  pt-[300px] ">
+      <div className="w-[360px]  pt-[300px] ">
         <p className=" text-4xl text-white text-start ">
           Witness The World’s Biggest
         </p>
@@ -14,12 +14,12 @@ const Banner = () => {
           increasingly, durga puja is also the world’s largest publicly funded
           Art show.{" "}
         </p>
-        <div>
-            <button>Get Ticket</button>
-            <div className="flex justify-between items-center ">
-                <p>view more</p>
-                <img src="../assets/view more.png" alt="" />;
-                <img src="../assets/view more.png" alt="" />;
+        <div className="flex justify-between items-center">
+            <button className="text-white bg-r bg-[#fc032c] w-[100px] h-8 rounded-2xl mt-3  ">Get Ticket</button>
+            <div className="flex justify-between items-center gap-2 ">
+                <p className="text-white">view more</p>
+                <img className="text-white "  src="../assets/view more.png" alt="" />
+                <img className="text-white "  src="../assets/view more.png" alt="" />
             </div>
         </div>
       </div>
