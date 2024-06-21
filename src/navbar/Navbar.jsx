@@ -24,7 +24,9 @@ const Navbar = () => {
         </a>
       </div>
       <div>
-        <button className="text-white bg-r bg-[#fc032c] w-[100px] h-8 rounded-2xl ">Register</button>
+        <button className="text-white bg-r bg-[#fc032c] w-[100px] h-8 rounded-2xl ">
+          Register
+        </button>
       </div>
     </div>
   );
