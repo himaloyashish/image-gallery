@@ -10,9 +10,9 @@ const Discover = () => {
         <button className="text-white  bg-[#fc032c] w-[120px] h-8 rounded-2xl mt-3  ">Discover Now</button>
       </div>
       <div className=" md:flex justify-between items-center pt-10 ">
-        <img className="flex justify-center items-end " src="/src/assets/Rectangle- second 1.png" alt="" />
-        <img src="/src/assets/Rectangle- second 2.png" alt="" />
-        <img src="/src/assets/Rectangle- second 3.png" alt="" />
+        <img className="flex justify-center items-end " src="https://ibb.co/5nWmbnp" alt="" />
+        <img src="https://ibb.co/Y75m9N2" alt="" />
+        <img src="https://ibb.co/bsS7r72" alt="" />
       </div>
     </div>
   );
