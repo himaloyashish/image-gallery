@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className=" md:flex items-center justify-between md:pl-[120px] bg-black pt-5  md:pr-[120px]  ">
       <div>
         <li>
-          <img src="src/assets/massart 1.png" alt="MassArt" />
+          <img src="https://i.ibb.co/VYnqVhq/massart-1.png" alt="MassArt" />
         </li>
       </div>
       <div className="md:flex gap-3">

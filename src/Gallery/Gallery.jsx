@@ -5,7 +5,7 @@ const Gallery = () => {
     <div className="bg-[#212525] pl-[120px] pr-[120px] pt-[150px] ">
       <div className="md:flex justify-between items-center pb-8 ">
         <p className="text-white ">Gallery</p>
-        <p className="text-white text-sm w-[350px] ">
+        <p className="text-white text-sm md:w-[350px] ">
           Find Togetherness and Friendship in Every Corner of Our Events"
           depicts moments of closeness and a sense of brotherhood that exist
           during our events. These photos show how shared experiences can create
