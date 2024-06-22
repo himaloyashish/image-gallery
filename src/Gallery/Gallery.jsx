@@ -15,14 +15,14 @@ const Gallery = () => {
 
       <div className="md:flex justify-between items-center gap-3">
         <div className="gap-3">
-          <img src="/src/assets/Rectangle- thire 1.png" alt="" />
+          <img src="https://i.ibb.co/RDdcTwF/Rectangle-thire-1.png" alt="" />
           <div className="md:flex justify-between items-center gap-2 pt-5">
-            <img src="/src/assets/Rectangle- Third 2.png" alt="" />
-            <img src="/src/assets/Rectangle- Third 3.png" alt="" />
+            <img src="https://i.ibb.co/Csyg3p9/Rectangle-Third-2.png" alt="" />
+            <img src="https://i.ibb.co/Wp4Xm3J/Rectangle-third-3.png" alt="" />
           </div>
         </div>
         <div>
-            <img src="/src/assets/Rectangle- third 4.png" alt="" />
+            <img src="https://i.ibb.co/wWnm1zv/Rectangle-third-4.png" alt="" />
         </div>
       </div>
     </div>

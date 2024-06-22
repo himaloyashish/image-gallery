@@ -7,9 +7,12 @@ const Founder = () => {
         Lorem Ipsum Is Simply Dummy
       </p>
       <div className="md:flex">
-        <img src="/src/assets/sec third 1.png" alt="" />
-        <img src="/src/assets/god 1.png" alt="" />
-        <img src="/src/assets/Rectangle- second 3.png" alt="" />
+        <img src="https://i.ibb.co/hmqVR0T/sec-third-1.png" alt="" />
+        <img src="https://i.ibb.co/ScCBQbp/god-1.png" alt="" />
+        <div className="bg-[#141616] ">
+          <img src="/src/assets/Rectangle- second 3.png" alt="" />
+          <img className="pt-4 rounded-md " src="https://i.ibb.co/BKkX878/sec-third-details.png" alt="" />
+        </div>
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
-.images{
-    background-color: black;
-    width: 100%;
-    height: 100vh;
+.secondThird{
+    
+    width: 100vh;
+    height: 100vw;
     /* background-size: cover; */
      object-fit: fill;
     background-position: fixed;

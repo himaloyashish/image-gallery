@@ -24,9 +24,9 @@ const Discover = () => {
           <img className="" src="https://i.ibb.co/n6zHF7p/Rectangle-second-2.png" alt="" />
         </div>
 
-        <div className="relative ">
-          <img src="https://i.ibb.co/wsQf327/Rectangle-second-3.png" alt="" />
-          <p  className="text-white absolute ml-10 mb-96 ">ok</p>
+        <div className=" relative ">
+          <img className=" " src="https://i.ibb.co/wsQf327/Rectangle-second-3.png  "  alt="" />
+          <p  className="text-white absolute ml-10 mb-40 "> </p>
         </div>
       </div>
     </div>
