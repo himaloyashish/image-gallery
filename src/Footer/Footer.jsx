@@ -2,7 +2,8 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className=" grid grid-cols-4 gap-3 justify-between items-start  bg-[#171a1a] pl-[120px] pr-[120px] pt-[150px] ">
+    <div className=" grid grid-cols-4 gap-3 justify-between items-start  bg-[#171a1a] pl-[120px] 
+    pr-[120px] pt-[150px] pb-8 ">
       <div>
         <p className="text-white">
           Lepeakers is a company in the field of technology, we were founded in
