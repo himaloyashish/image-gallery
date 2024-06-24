@@ -5,6 +5,7 @@ import Footer from "./Footer/Footer";
 import Founder from "./Founder/Founder";
 import Gallery from "./Gallery/Gallery";
 import Lineup from "./Lineup/Lineup";
+import Unicef from "./Unicef/Unicef";
 import Navbar from "./navbar/Navbar";
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
       <Gallery></Gallery>
       <Explore></Explore>
       <Lineup></Lineup>
+      <Unicef></Unicef>
       <Footer></Footer>
     </div>
   );
