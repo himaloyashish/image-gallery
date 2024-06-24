@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className=" grid grid-cols-4 gap-2 justify-between items-start  bg-[#171a1a] pl-[120px] pr-[120px] pt-[150px] ">
+    <div className=" grid grid-cols-4 gap-3 justify-between items-start  bg-[#171a1a] pl-[120px] pr-[120px] pt-[150px] ">
       <div>
         <p className="text-white">
           Lepeakers is a company in the field of technology, we were founded in
@@ -24,9 +24,9 @@ const Footer = () => {
       <div className="text-start">
         <p className="text-white ">Newsletter</p>
         <p className="text-white ">Don't miss the latest information on this platform</p>
-        <div className="flex">
+        <div className="flex pt-2">
           <input type="email" name="" id="" />
-          <img className="bg-[#ED2127] " src="https://i.ibb.co/L6QM17t/send.png" alt="" />
+          <img className="bg-[#ED2127]  " src="https://i.ibb.co/L6QM17t/send.png" alt="" />
         </div>
       </div>
     </div>
