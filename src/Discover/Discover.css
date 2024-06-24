@@ -1,11 +1,11 @@
 .secondThird{
     
-    width: 100vh;
-    height: 100vw;
-    /* background-size: cover; */
-     object-fit: fill;
+    width: 400px;
+    height: 600px;
+    background-size: cover;
+    object-fit: fill;
     background-position: fixed;
-    background-attachment: center;
+    /* background-attachment: center; */
     background-image: url("https://i.ibb.co/wsQf327/Rectangle-second-3.png");
 
 }

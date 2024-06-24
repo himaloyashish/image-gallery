@@ -1,5 +1,5 @@
 import React from "react";
-import './Discover'
+import "./Discover";
 
 const Discover = () => {
   return (
@@ -21,17 +21,20 @@ const Discover = () => {
           />
         </div>
         <div>
-          <img className="" src="https://i.ibb.co/n6zHF7p/Rectangle-second-2.png" alt="" />
+          <img
+            className=""
+            src="https://i.ibb.co/n6zHF7p/Rectangle-second-2.png"
+            alt=""
+          />
         </div>
 
-        <div className=" relative ">
+        <div className="  secondThird">
           {/* <img className=" " src="https://i.ibb.co/wsQf327/Rectangle-second-3.png  "  alt="" /> */}
-          <p  className="text-white absolute ml-10 mb-40 "> </p>
+          <p className="text-white  ml-10 mb-40 "> </p>
         </div>
       </div>
     </div>
   );
-  
 };
 
 export default Discover;
