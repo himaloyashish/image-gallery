@@ -31,6 +31,7 @@ const Discover = () => {
       </div>
     </div>
   );
+  
 };
 
 export default Discover;
