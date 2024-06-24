@@ -9,14 +9,14 @@ const Founder = () => {
       <div className="md:flex gap-2">
         <img src="https://i.ibb.co/hmqVR0T/sec-third-1.png" alt="" />
         <img src="https://i.ibb.co/ScCBQbp/god-1.png" alt="" />
-        <div className=" rounded-md">
+        <div className=" rounded-md bg-[#151717]">
           <img src="https://i.ibb.co/tDmr6dG/Rectangle-second-3.png" alt="" />
-          <p className="font-bold text-xl text-start text-white ">Jonathan Manuel R.</p>
-          <p className="text-white text-start">Founder Bisinuse.io</p>
+          <img src="https://i.ibb.co/FnN5t0r/sec-third-details.png" alt="" />
+          {/* <p className="font-bold text-xl text-start text-white ">Jonathan Manuel R.</p>
+          <p className="text-white text-start">Founder Bisinuse.io</p> */}
         </div>
       </div>
     </div>
   );
 };
-
 export default Founder;
