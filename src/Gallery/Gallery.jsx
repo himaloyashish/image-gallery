@@ -13,15 +13,15 @@ const Gallery = () => {
         </p>
       </div>
 
-      <div className="md:flex justify-between items-center gap-3">
-        <div className="gap-3">
+      <div className="md:flex  justify-between items-center gap-3">
+        <div className="gap-3 w-1/2">
           <img className="object-fill " src="https://i.ibb.co/RDdcTwF/Rectangle-thire-1.png" alt="" />
           <div className="md:flex justify-between items-center gap-2 pt-5">
             <img className="object-fill" src="https://i.ibb.co/Csyg3p9/Rectangle-Third-2.png" alt="" />
             <img className="object-fill" src="https://i.ibb.co/Wp4Xm3J/Rectangle-third-3.png" alt="" />
           </div>
         </div>
-        <div>
+        <div  className="w-1/2">
             <img className="object-fill" src="https://i.ibb.co/wWnm1zv/Rectangle-third-4.png" alt="" />
         </div>
       </div>
