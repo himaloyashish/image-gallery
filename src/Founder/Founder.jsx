@@ -6,7 +6,7 @@ const Founder = () => {
       <p className="text-4xl font-bold md:w-[480px] m-auto pb-4 text-white">
         Lorem Ipsum Is Simply Dummy
       </p>
-      <div className="md:flex gap-2">
+      <div className="md:flex w-3/3 gap-2">
         <img src="https://i.ibb.co/hmqVR0T/sec-third-1.png" alt="" />
         <img src="https://i.ibb.co/ScCBQbp/god-1.png" alt="" />
         <div className=" rounded-md bg-[#151717]">
