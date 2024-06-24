@@ -1,6 +1,7 @@
 import Banner from "./Banner/Banner";
 import Discover from "./Discover/Discover";
 import Explore from "./Explore/Explore";
+import Footer from "./Footer/Footer";
 import Founder from "./Founder/Founder";
 import Gallery from "./Gallery/Gallery";
 import Lineup from "./Lineup/Lineup";
@@ -16,6 +17,7 @@ const App = () => {
       <Gallery></Gallery>
       <Explore></Explore>
       <Lineup></Lineup>
+      <Footer></Footer>
     </div>
   );
 };
