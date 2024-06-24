@@ -3,6 +3,7 @@ import Discover from "./Discover/Discover";
 import Explore from "./Explore/Explore";
 import Founder from "./Founder/Founder";
 import Gallery from "./Gallery/Gallery";
+import Lineup from "./Lineup/Lineup";
 import Navbar from "./navbar/Navbar";
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
       <Founder></Founder>
       <Gallery></Gallery>
       <Explore></Explore>
+      <Lineup></Lineup>
     </div>
   );
 };
