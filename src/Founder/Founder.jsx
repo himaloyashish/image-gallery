@@ -6,12 +6,13 @@ const Founder = () => {
       <p className="text-4xl font-bold md:w-[480px] m-auto pb-4 text-white">
         Lorem Ipsum Is Simply Dummy
       </p>
-      <div className="md:flex">
+      <div className="md:flex gap-2">
         <img src="https://i.ibb.co/hmqVR0T/sec-third-1.png" alt="" />
         <img src="https://i.ibb.co/ScCBQbp/god-1.png" alt="" />
-        <div className="bg-[#141616] ">
+        <div className="bg-[#141616] rounded-md">
           <img src="/src/assets/Rectangle- second 3.png" alt="" />
-          <img className="pt-4 rounded-md " src="https://i.ibb.co/BKkX878/sec-third-details.png" alt="" />
+          <p className="font-bold text-xl text-start text-white ">Jonathan Manuel R.</p>
+          <p className="text-white text-start">Founder Bisinuse.io</p>
         </div>
       </div>
     </div>

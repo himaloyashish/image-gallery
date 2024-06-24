@@ -25,7 +25,7 @@ const Discover = () => {
         </div>
 
         <div className=" relative ">
-          <img className=" " src="https://i.ibb.co/wsQf327/Rectangle-second-3.png  "  alt="" />
+          {/* <img className=" " src="https://i.ibb.co/wsQf327/Rectangle-second-3.png  "  alt="" /> */}
           <p  className="text-white absolute ml-10 mb-40 "> </p>
         </div>
       </div>
