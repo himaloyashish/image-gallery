@@ -21,7 +21,7 @@ const Lineup = () => {
         <p className="text-white  ">
 
           Explore a comprehensive list of nearby events conveniently accessible
-          on our platform. Users have the opportunity to discover a diverse
+          on our platform . Users have the opportunity to discover a diverse
           range of events and can seamlessly register directly through this
           dedicated page
         </p>
